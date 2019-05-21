@@ -1,0 +1,23 @@
+# Ignore general
+**/*~
+**/*.class
+**/.metadata
+**/.*.swp
+*/**/.gitignore
+
+# Ignore intellij generated files
+**/.idea
+**/*.iml
+
+# Ignor build files
+.classpath
+**/target/**
+
+# Ignore MacOS system files
+**/.DS_store
+
+# Ignore Java generated files
+**/*.class
+
+# Ignore Python generated files
+**/*.pyc
